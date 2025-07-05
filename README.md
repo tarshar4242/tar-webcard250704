@@ -1,1 +1,1 @@
-# tar-webcard250704
+Gemini CLI 安裝圖卡
